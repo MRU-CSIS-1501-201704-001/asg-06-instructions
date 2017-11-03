@@ -8,6 +8,10 @@ To get you used to writing methods, in this assignment you'll be writing some st
 
 Oh, yeah – since reading documentation is something that you have to get used to if you want to be a developer, guess what you'll have to do in this assignment….
 
+## BIG HEADS-UP
+
+**Sections 001 (ours) and 003 (Jason's) are doing a slightly different version of this assignment than section 002 (Ruben's). So if you have any contact with section 001 folks, realize their methods are a bit different than ours.**
+
 ## The Challenges
 
 In the each of the four classes (Banner, Depreciation, Dice, and MoneyFormat), there is documentation for two methods you will need to implement. Go read the documentation –  you can either read the docs directly in the code, or press Ctrl+J when in the editor to see the docs nicely formatted.
