@@ -14,7 +14,7 @@ Oh, yeah – since reading documentation is something that you have to get used 
 
 ## The Challenges
 
-In the each of the four classes (Banner, Depreciation, Dice, and MoneyFormat), there is documentation for two methods you will need to implement. Go read the documentation –  you can read it directly in the source code.
+In the each of the four classes (Banner, Depreciation, Dice, and MoneyFormat), there is documentation for two methods you will need to implement. Go read the documentation –  it's in the class files.
 
 **MAKE THIS HAPPEN:**
 1.	Implement each of the methods as a public static method. (This is fancy-speak for "enter code in each method so that it does what it's supposed to do".)
